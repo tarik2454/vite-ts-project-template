@@ -2,11 +2,10 @@
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://tarik2454.github.io/vite-project-template/",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vite-project-template/",
+    "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
