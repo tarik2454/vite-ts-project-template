@@ -2,7 +2,6 @@
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://tarik2454.github.io/vite-project-template/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
