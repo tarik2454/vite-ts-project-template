@@ -1,5 +1,4 @@
 import { defineConfig } from 'vite';
-
 import react from '@vitejs/plugin-react-swc';
 import { fileURLToPath } from 'url';
 
@@ -17,5 +16,5 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url)),
     },
   },
-  base: '/vite-project-template/',
+  // base: '/vite-ts-project-template/',
 });
